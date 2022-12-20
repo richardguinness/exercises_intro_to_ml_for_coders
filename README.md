@@ -6,6 +6,8 @@ The body of Jeremy's solution can be found in lesson3-rf_foundations.ipynb.
 
 &copy; Richard Guinness August 2022
 
+(Please see my separate article which relates to this article: [Understanding the place of `min_leaf` in Jeremy Howard's algorithm](https://richardguinness.github.io/2022/08/02/min_leaf.html))
+
 Having established my first effort (a class named `TreeEnesembleM`):
 
 ```python
